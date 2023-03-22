@@ -5,3 +5,10 @@ The course was divided in three parts: sorting, dynamic algorithms, graphs and r
 Folder exercises contain descriptions of problems that were present during class. Solution to those are in respective folders for each section.
 
 Tests that are available for verification of some of the solutions are written by the teacher of the course and some of the students. Folder 'previous exams' contains exams and some coloquims that were in previous years, most of the solutions to those problems are made by other students - I used answers to better prepare myself for the exam.
+
+
+#---------
+#What i learned during this class:
+- how sorting is used in many aspects of problem solving
+- dynamic ways of achieving solution
+- many graph applications
